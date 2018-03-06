@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6330bbec87be6f34096c036829670dce
+timeCreated: 1502033044
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animacao: {instanceID: 0}
+  - objeto: {fileID: 1735330705739128, guid: f88c8042449955f4daa95038f59ca66f, type: 2}
+  - balao: {instanceID: 0}
+  - Tela1: {fileID: 1869603492453978, guid: 46f3c5fa2e66e0648988e0c517aab229, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a02d1fd9cb80d6f4cb4be6460ee403c7
+timeCreated: 1502053519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ALIN_KID
+  fontNames:
+  - ALIN_KID
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
